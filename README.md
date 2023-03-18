@@ -3,7 +3,7 @@ I'm tired of making booklets by hand, that's it :)
 
 ---
 
-###Python code that takes an input PDF file with 'n' pages and outputs a new PDF file with 'n/4' pages arranged in the booklet format as described:
+### Python code that takes an input PDF file with 'n' pages and outputs a new PDF file with 'n/4' pages arranged in the booklet format as described:
 
 Page 1:
 
